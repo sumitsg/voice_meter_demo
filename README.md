@@ -1,6 +1,11 @@
 # audio_meter_demo
 
-A new Flutter project.
+## A new Flutter project where it records the noise and display the decibel value of that noise.
+
+It basically record the audio or noise for specified duation and calculate the average decible value for that noise.
+Also it get the current location of that user.
+as well it can play that audio sample.
+
 
 ## Getting Started
 
@@ -14,3 +19,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src= 'https://github.com/sumitsg/voice_meter_demo/blob/master/screenshots/screenshot.jpeg' width=200>
